@@ -34,7 +34,14 @@
 .vs/
 
 min_win_project/.vs/
+min_win_project/build/
 min_win_project/out/
 min_win_project/CMakeSettings.json
+
+project1/.vs/
+project1/build/
+project1/out/
+project1/CMakeSettings.json
+
 
 
