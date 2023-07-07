@@ -43,5 +43,10 @@ project1/build/
 project1/out/
 project1/CMakeSettings.json
 
+web_simple_temp/.vs/
+web_simple_temp/build/
+web_simple_temp/out/
+web_simple_temp/CMakeSettings.json
+
 
 
